@@ -8,7 +8,7 @@
  快速通道----------》》》
  
 
- Tool[【快速EX依赖】](https://www.nuget.org/packages/Haello)
+ Tool[【快速EX依赖Haello】](https://www.nuget.org/packages/Haello)
 
 
  [插件制作库](https://github.com/YF-OFFICE/PluginMaking)
