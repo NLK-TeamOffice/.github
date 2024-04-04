@@ -11,11 +11,11 @@
  Tool[【快速EX依赖Haello】](https://www.nuget.org/packages/Haello)
 
 
- [插件制作库](https://github.com/YF-OFFICE/PluginMaking)
+[插件制作库](https://github.com/YF-OFFICE/PluginMaking)
 
 [SCP181](https://github.com/YF-OFFICE/SCP181)
 
-[SCP914(收费)）](https://github.com/YF-OFFICE/SCPM914)
+[自制Socket查询插件](https://github.com/YF-OFFICE/SocketServer-SCPSL)
 
 [CXbOT](https://github.com/YF-OFFICE/SocketServer-SCPSL)
 
